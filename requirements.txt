@@ -1,0 +1,6 @@
+pandasai
+pandasai-litellm
+pandas
+fastapi
+uvicorn[standard]
+python-multipart
